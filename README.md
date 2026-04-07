@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Banner" />
+  <img src="/banner.svg" alt="Banner" />
 </p>
 
 Building scalable systems and interactive platforms with real-world application.
