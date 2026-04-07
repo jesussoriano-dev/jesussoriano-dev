@@ -1,6 +1,6 @@
-# Jesús Soriano
-
-### Software Engineer | Systems & Interactive Solutions
+<p align="center">
+  <img src="banner.svg" alt="Banner" />
+</p>
 
 Building scalable systems and interactive platforms with real-world application.
 
