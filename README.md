@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=800&lines=Jesús+Soriano;Software+Engineer;Systems+%26+Interactive+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=700&lines=Systems+Engineer;Building+Scalable+Solutions;Focused+on+Real+World+Impact" />
 </p>
 # Jesús Soriano
 
