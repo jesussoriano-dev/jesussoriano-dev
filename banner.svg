@@ -4,14 +4,6 @@
       <stop offset="0%" stop-color="#8B0000"/>
       <stop offset="100%" stop-color="#FF2D2D"/>
     </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <rect width="1280" height="300" fill="#0D0D0D"/>
@@ -21,8 +13,7 @@
   <text x="80" y="140"
         font-family="Segoe UI, sans-serif"
         font-size="48"
-        fill="#FFFFFF"
-        filter="url(#glow)">
+        fill="#FFFFFF">
     Jesús Soriano
   </text>
 
