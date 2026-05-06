@@ -109,7 +109,7 @@ Prioridad en soluciones a largo plazo, arquitectura limpia y escalabilidad contr
 ## 📫 Contact
 
 * GitHub: https://github.com/jesussoriano-dev
-* Email: jesusgds11@gmail.com
+* Email: jesussorianomartinez27@gmail.com
 
 ---
 
